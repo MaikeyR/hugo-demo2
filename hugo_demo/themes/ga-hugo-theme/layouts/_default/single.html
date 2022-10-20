@@ -10,9 +10,24 @@
 
      <div style="margin:25px;">
           <h1>{{.Title}}</h1>
-          <div style="color:grey; font-size:16px;">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
-          <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div>
-          <div style="font-size:18px;">{{.Content}}</div>
+          <div>
+               <div style="color:grey; font-size:24px;">{{if .Params.tags}}Tags: {{.Params.Tags}}{{end}}</div>
+               <div style="color:grey; font-size:16px;">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+               <div style="color:grey; font-size:16px;">{{if .Params.naam}}Naam: {{.Params.Naam}}{{end}}</div>
+               <div style="color:grey; font-size:16px;">{{if .Params.opdrachtgever}}Opdrachtgever: {{.Params.Opdrachtgever}}{{end}}</div>
+               <div style="color:grey; font-size:16px;">{{if .Params.partner}}Partner: {{.Params.Partner}}{{end}}</div>
+          </div>
+          <hr class="solid">
+          <div style="color:black; font-size:24px;">{{if .Params.summary}}Samenvatting: {{.Params.Summary}}{{end}}</div>
+          <div style="color:black; font-size:24px;">{{if .Params.beschrijving}}Beschrijving: </div>
+               <div style="color:black; font-size:16px;">{{.Params.Beschrijving}}{{end}}</div>
+          <div style="color:black; font-size:24px;">{{if .Params.afbeeldingen}}Afbeeldingen: <br>
+               <img src="{{.Params.Afbeeldingen}}" alt="Development image" width="300" height="300">{{end}}
+          </div>
+          <div style="color:black; font-size:24px;">{{if .Params.youtube}}Video: <br>
+               <iframe width="420" height="315" src="https://www.youtube.com/embed/{{.Params.Youtube}}"></iframe>{{end}}
+          </div>
+         <!--<div style="font-size:18px;">{{.Content}}</div>-->
      </div>
      {{ partial "footer" . }}
 </body>
