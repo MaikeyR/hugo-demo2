@@ -3,7 +3,7 @@
 
 date: 2022-10-24
 title: "Maikel"                   #kies een projecttitel met een unieke naam en noem je kopie van dit bestand hetzelfde.
-naam: "Maikel"
+naam: "Maikel Reijneke"
 opdrachtgever: "Jan"
 summary: "een samenvatting van het project"
 tags: ["jaar3", "DIT"]                  #kies uit één of meer van deze tags: "jaar1", "jaar2", "jaar3", "jaar4", "BM", "PM", "SDE", "DIT",
