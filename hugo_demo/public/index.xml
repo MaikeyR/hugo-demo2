@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HUGO-demo</title>
+    <link>https://MaikeyR.github.io/hugo-demo2/</link>
+    <description>Recent content on HUGO-demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://MaikeyR.github.io/hugo-demo2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SDEProject</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/sdeproject/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/sdeproject/</guid>
+      <description>Dit is een samenvatting!!!!!!!!!!!!!!</description>
+    </item>
+    
+    <item>
+      <title>SDEProject2</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/sdeproject2/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/sdeproject2/</guid>
+      <description>Ik hou niet van Kaas!</description>
+    </item>
+    
+    <item>
+      <title>Maikel</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/maikel/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/maikel/</guid>
+      <description>een samenvatting van het project</description>
+    </item>
+    
+    <item>
+      <title>ProjectJ</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/projectj/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/projectj/</guid>
+      <description>samenvatting j</description>
+    </item>
+    
+    <item>
+      <title>SDEwebsite</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/sdewebsite/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/sdewebsite/</guid>
+      <description>Dit is een mooiue samenvatting ik hou van chinees!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</description>
+    </item>
+    
+    <item>
+      <title>ProjectM</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/projectm/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/projectm/</guid>
+      <description>samenvatting m</description>
+    </item>
+    
+  </channel>
+</rss>

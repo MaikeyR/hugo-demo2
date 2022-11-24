@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on HUGO-demo</title>
+    <link>https://MaikeyR.github.io/hugo-demo2/tags/</link>
+    <description>Recent content in Tags on HUGO-demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://MaikeyR.github.io/hugo-demo2/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jaar2</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/tags/jaar2/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/tags/jaar2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDE</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/tags/sde/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/tags/sde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIT</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/tags/dit/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/tags/dit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jaar3</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/tags/jaar3/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/tags/jaar3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jaar 1</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/tags/jaar-1/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/tags/jaar-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PM</title>
+      <link>https://MaikeyR.github.io/hugo-demo2/tags/pm/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaikeyR.github.io/hugo-demo2/tags/pm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

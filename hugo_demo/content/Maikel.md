@@ -1,7 +1,7 @@
 ---
 #kopieer dit templatebestand, plak het in content en vul op de juiste manier je eigen projectinformatie in.
 
-date: 2022-10-24
+date: 2022-11-24
 title: "Maikel"                   #kies een projecttitel met een unieke naam en noem je kopie van dit bestand hetzelfde.
 naam: "Maikel Reijneke"
 opdrachtgever: "Jan"
