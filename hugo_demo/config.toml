@@ -1,4 +1,4 @@
-baseURL = "https://MaikeyR.github.io/hugo-demo2"
+baseURL = "https://MaikeyR.github.io/hugo-demo2/hugo_demo"
 languageCode = "en-us"
 title = "HUGO-demo"
 theme = "ga-hugo-theme"
